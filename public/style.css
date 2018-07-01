@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat+Brush|Luckiest+Guy');
+
+body {
+  background-image: url('img/light-bg2.png');
+  text-align: center;
+}
+h1{
+  font-size: 4.5em;
+  color: pink;
+  font-family: 'Luckiest Guy', cursive;
+}
+p{
+  font-family: 'Caveat Brush', cursive;
+}
+
+.start {
+  display: block;
+  width: 5em;
+  height:5em;
+  line-height:5em;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius: 50%;
+  background-color: pink;
+  color: magenta;
+  font-size:2em;
+  font-family: 'Luckiest Guy', cursive;
+
+.start :hover {
+  background-color: white;
+  transition: color 1s;
+}
+  
+  
